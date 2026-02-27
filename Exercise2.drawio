@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.2">
   <diagram name="Page-1" id="OCT4_veBb7_Ql2yVnEmV">
-    <mxGraphModel dx="1699" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2280" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -976,10 +976,20 @@
             <mxPoint x="630" y="2100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_qrWlVwmyRkBC4udh9u--224" connectable="0" parent="_qrWlVwmyRkBC4udh9u--219" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1..N" vertex="1">
+          <mxGeometry relative="1" x="-0.0687" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_qrWlVwmyRkBC4udh9u--220" edge="1" parent="1" source="_qrWlVwmyRkBC4udh9u--180" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="_qrWlVwmyRkBC4udh9u--218" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="580" y="2150" as="sourcePoint" />
             <mxPoint x="630" y="2100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qrWlVwmyRkBC4udh9u--223" connectable="0" parent="_qrWlVwmyRkBC4udh9u--220" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="0..M" vertex="1">
+          <mxGeometry relative="1" x="-0.0244" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_qrWlVwmyRkBC4udh9u--221" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="gameplay&lt;div&gt;description&lt;/div&gt;" vertex="1">
